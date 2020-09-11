@@ -26,8 +26,6 @@
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
-			"name": "Web electric3",
 			"@type": "Painting"
 		}
 	]
